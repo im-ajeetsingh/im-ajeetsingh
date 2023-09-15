@@ -14,12 +14,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <h1 align="center">Hi 👋, I'm Ajeet Singh</h1>
-<h3 align="center">Passionate for Data Analyst </h3>
-<!---
-<img align = "right" src="https://img.freepik.com/premium-photo/there-is-red-white-floral-wallpaper-with-bunch-flowers-generative-ai_958192-24831.jpg?w=1480" alt="data analyst">
---->
+<h3 align="center">Passionate for Data Analyst from India</h3>
 
-- 🔭 I’m currently working on **Data Analyst**
+- 🔭 I’m currently working on **Data Science**
 
 - 🌱 I’m currently learning **Power BI**
 
@@ -37,4 +34,5 @@ Here are some ideas to get you started:
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=im-ajeetsingh&show_icons=true&locale=en&layout=compact" alt="im-ajeetsingh" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=im-ajeetsingh&" alt="im-ajeetsingh" /></p>
+
 
