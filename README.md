@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on **Data Science**
 
-- 🌱 I’m currently learning **Power BI**
+- 🌱 I’m currently learning **Power BI, Machine Learning**
 
 - 📫 How to reach me **contacts.ajeet@gmail.com**
 
