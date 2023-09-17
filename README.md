@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <h1 align="center">Hi 👋, I'm Ajeet Singh</h1>
-<h3 align="center">Passionate for Data Analyst from India</h3>
+<h3 align="center">Passionate for Data Science</h3>
 
 - 🔭 I’m currently working on **Data Science**
 
