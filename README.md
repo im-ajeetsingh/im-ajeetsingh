@@ -12,15 +12,16 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+- 📫 How to reach me **contacts.ajeet@gmail.com**
 -->
 <h1 align="center">Hi 👋, I'm Ajeet Singh</h1>
-<h3 align="center">Passionate for Data Science</h3>
+<h3 align="center">Data Engineer||Dedicated for transforming Data into Insights</h3>
 
-- 🔭 I’m currently working on **Data Science**
+- 🔭 I’m currently working on **Data Engineering and Cloud Computing**
 
-- 🌱 I’m currently learning **Power BI, Machine Learning**
+- 🌱 I’m currently learning **Tableau, Data Warehouse, Cloud Technology**
 
-- 📫 How to reach me **contacts.ajeet@gmail.com**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
