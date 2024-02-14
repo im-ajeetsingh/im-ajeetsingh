@@ -14,12 +14,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 - 📫 How to reach me **contacts.ajeet@gmail.com**
 -->
-<h1 align="center">Hi 👋, I'm Ajeet Singh</h1>
+<h1 align="center">Hello, I'm Ajeet Singh</h1>
 <h3 align="center">Data Engineer & Analyst || Dedicated for transforming Data into Valuable Insights</h3>
 
 - 🔭 I’m currently working on **Data Engineering and Cloud Computing**
 
-- 🌱 I’m currently learning **Tableau, Data Warehouse, Cloud Technology**
+- 🌱 I’m currently learning **Data Warehouse, Big Data Analytics**
 
 
 
